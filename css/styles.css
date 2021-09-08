@@ -1,0 +1,256 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+.box1{
+	background-color: red;
+	width: 240px;
+	height: 240px;
+	display: inline-block;
+	border: 5px solid blue;
+	margin-left: 30px
+
+
+	
+}
+
+.box1:hover{
+
+background-image: url('picture/1.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+.box2{
+
+background-color:blue;
+	
+	width: 240px;
+	height: 240px;
+display: inline-block;
+border: 5px solid red;
+position: relative
+
+
+
+}
+
+
+
+
+
+
+
+.box2:hover{
+
+background-image: url('picture/2.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+
+
+
+
+.box3{
+	background-color: white;
+	
+	width: 240px;
+	height: 240px;
+
+	display: inline-block;
+	border: 5px solid blue;
+
+
+
+}
+
+.box3:hover{
+
+background-image: url('picture/3.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+
+
+.box4{
+background-color: green;
+	
+	width: 240px;
+	height: 240px;
+	display: inline-block;
+border: 5px solid orange;
+
+
+}
+
+
+.box4:hover{
+
+background-image: url('picture/4.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+.box5{
+
+background-color:deeppink;
+
+width: 240px;
+	height: 240px;
+
+	display: inline-block;
+border: 5px solid blue;
+
+
+
+	}
+
+
+.box5:hover{
+
+background-image: url('picture/5.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+	
+
+.box6{
+
+	background-color:maroon;
+	
+	width: 240px;
+	height: 240px;
+
+	display: inline-block;
+	border: 5px solid blue;
+	margin-left: 30px;
+	
+
+}
+
+.box6:hover{
+
+background-image: url('picture/6.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+
+
+.box7{
+background-color: orange;
+	width: 240px;
+	height: 240px;
+display: inline-block;
+border: 5px solid green;
+
+
+
+
+}
+
+.box7:hover{
+
+background-image: url('picture/7.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+
+.box8{
+background-color: black;
+	
+	width: 240px;
+	height:240px;
+	display: inline-block;
+	border: 5px solid blue;
+
+
+
+}
+
+
+.box8:hover{
+
+background-image: url('picture/8.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+.box9{
+background-color: gray;
+	
+	width: 240px;
+	height: 240px;
+	display: inline-block;
+	border: 5px solid deeppink;
+
+	
+
+
+}
+.box9:hover{
+background-image:url('picture/9.jpg');
+
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+
+}
+
+
+
+.box10{
+background-color: blue;
+	
+	width: 240px;
+	height: 240px;
+	display: inline-block;
+	border: 5px solid red;
+	
+
+
+}
+
+.box10:hover{
+
+
+background-image: url('picture/1.jpg');
+	background-size: cover;
+	background-position: center;
+  transition: .7s;
+  
+}
